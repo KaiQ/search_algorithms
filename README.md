@@ -13,4 +13,4 @@ DEPENDENCIES
 USAGE
 ######
 
-./main <search> < <file>
+./main \<search\> < \<file\>
